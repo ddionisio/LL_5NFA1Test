@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "maxChars": {
+      "welcome": "50"
+    }
+  },
+  "en": {
+    "welcome": "Welcome!",
+    "test": "Test 123 123",
+    "title": "Pengu and the Unlikely Encounters",
+    "options": "OPTIONS",
+    "sound": "SOUND",
+    "music": "MUSIC",
+    "speech": "SPEECH",
+    "on": "ON",
+    "off": "OFF",
+    "close": "CLOSE",
+    "submit": "SUBMIT",
+    "victory": "VICTORY",
+    "attack": "ATTACK",
+    "defend": "DEFEND"
+  }
+}
